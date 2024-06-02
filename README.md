@@ -39,10 +39,3 @@ Frame struct
 
 Frame interface
 - print -> print all things in current frame at their position
-
-GIF struct
-- []Frames === frames in the GIF
-- t int === time
-
-GIF interface
-- animate/play === play the GIF
